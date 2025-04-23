@@ -1,0 +1,12 @@
+Colores:
+#244342
+#F87D22
+#FE3709
+#D23F13
+#583532
+
+Imagen:
+https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg
+
+Informacion de mi:
+Hola, soy Jean marco. Se trabajar con python, como hacer un bot y un sitio web. Me gusta trabajar en equipo y hacer buenos compañeros.
